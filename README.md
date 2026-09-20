@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://magma.com/api/message/file/6a810e4503dcd194af674a4b"
+  <img src="https://magma.com/api/message/file/6aaf2ed8025a19c94727a9c2"
+
 </div>
 
   <p align="center">
@@ -39,20 +40,21 @@ honorary host addon @silly-dotcom as the Oppenheimer enthusiast
                              
 </details>
   <p align="center">
-     <3
+     hi
 </p>
  
  
  
  </details>
   <p align="center">
-     <3
+     remaking
 </p>
 
 
  </details>
   <p align="center">
-     "the sun glows like m' eyes when i first met you bleu.."
+     hey its me its verity ask me anything i know about a million things ill do everything
 </p>
  
-<img width="300" height="200" alt="Screenshot from 2026-08-16 17-35-44" src="https://github.com/user-attachments/assets/fa2c475c-951e-4f9c-9873-2010a4dcdf4e" />
+<img width="222" height="207" alt="Screenshot from 2026-09-19 16-54-38" src="https://github.com/user-attachments/assets/e6840de4-ba44-4982-a8bf-da74a6444dca" />
+
